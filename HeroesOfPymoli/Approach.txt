@@ -1,0 +1,39 @@
+**Player Count:
+
+Total number of players= count of unique values in 'column' SN
+
+**Purchasing Analysis(Total):
+
+Number of unique items= count of unique values in 'column' Item Name
+Average purchase price = sum of values in 'column'price/count of values in 'column' price
+Total number of purchases= count of values in 'column' price or 'column' purchase ID
+Total revenue (for each item) = price * quantity = sum of each Item Name bought * Price of each item
+eg: Quickblade Of Trembling Hands has been bought 9 times & price per is $3.53
+So total revenue for Quickblade of Trembling Hands = 9*3.53 = $31.77
+Overall Total revenue = sum of total revenue for each item
+ 
+
+**Gender Demographics:
+
+Percentage & count of male players--> count of male players = sum of players where 'column' Gender = Male
+					percentage of male players = (count of male players/Total count of players)*100
+
+Percentage & count of female players--> count of female players = sum of players where 'column' Gender = FEMale
+					percentage of female players = (count of female players/Total count of players)*100
+
+Percentage & count of other players--> count of Other/Non-Disclosed players = sum of players where 'column' Gender = Other/Non-Disclosed
+					percentage of Other/Non-Disclosed players = (count of Other/Non-Disclosed/Total count of players)*100
+
+
+**Purchasing Analysis(Gender):- GROUPBY
+
+Purchase Count by gender = count of male,female,other/non-dsiclosed players (from above)
+Avg. Purchase Price = total purchases by a gender/count of that gender
+Total Purchase Value --> did not understand the ask
+Avg. purchase total per person by gender --> did not understand the ask
+
+**Age Demographics: Use of BINS
+Purchase Count
+Average Purchase Price
+Total Purchase Value
+Average Purchase Total per Person by Age Group
