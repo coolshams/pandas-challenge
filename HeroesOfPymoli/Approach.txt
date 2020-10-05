@@ -10,7 +10,7 @@ Total number of purchases= count of values in 'column' price or 'column' purchas
 Total revenue (for each item) = price * quantity = sum of each Item Name bought * Price of each item
 eg: Quickblade Of Trembling Hands has been bought 9 times & price per is $3.53
 So total revenue for Quickblade of Trembling Hands = 9*3.53 = $31.77
-Overall Total revenue = sum of total revenue for each item
+Overall Total revenue = sum of total revenue for each item-Nope they meant total price
  
 
 **Gender Demographics:
