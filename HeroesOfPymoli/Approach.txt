@@ -29,11 +29,36 @@ Percentage & count of other players--> count of Other/Non-Disclosed players = su
 
 Purchase Count by gender = count of male,female,other/non-dsiclosed players (from above)
 Avg. Purchase Price = total purchases by a gender/count of that gender
-Total Purchase Value --> did not understand the ask
-Avg. purchase total per person by gender --> did not understand the ask
+Total Purchase Value --> duh -sum! LOL
+Avg. purchase total per person by gender --> OKKKK-ignore the 'per person'!!!!
 
 **Age Demographics: Use of BINS
 Purchase Count
 Average Purchase Price
 Total Purchase Value
 Average Purchase Total per Person by Age Group
+
+Top Spenders
+Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+SN
+Purchase Count
+Average Purchase Price
+Total Purchase Value
+
+Most Popular Items
+Identify the 5 most popular items by purchase count, then list (in a table):
+Item ID
+Item Name
+Purchase Count
+Item Price
+Total Purchase Value
+
+Most Profitable Items
+Identify the 5 most profitable items by total purchase value, then list (in a table):
+Item ID
+Item Name
+Purchase Count
+Item Price
+Total Purchase Value
+
+
