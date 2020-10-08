@@ -28,14 +28,8 @@ This helped me break it down & go to instruction recordings/google to review whi
  -applied binning. These are tricky.Took a while to narrow down the duplicates from sliced data!
  
  Top Spenders & Most Popular Items:
- -pd.merge!! this took a while to implement. Some interesting reads on merges/joins helped.
+ -pd.merge!! this took a while to implement. 
  `
-## Inference from Analysis
- The following key trends were observed:
--Males spent more money on purchasing items than females.
--There are many closely popular items.
-
-
 ## Reading references
 Some helpful google reading references:
 https://kanoki.org/2019/04/06/pandas-map-dictionary-values-with-dataframe-columns/
